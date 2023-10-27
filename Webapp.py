@@ -92,7 +92,7 @@ with st.container():
                 This project not only demonstrates my technical prowess but also my knack for utilizing data-driven solutions in the world of cricket.
                 """
             )
-            st.markdown("[Github Link....](link)")
+            st.markdown("[Github Link....](https://github.com/Narendra-18/Cricket_Data_analysis_Project)")
 
 with st.container():
     image_column, text_column = st.columns((1,2))
