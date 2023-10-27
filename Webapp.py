@@ -74,7 +74,7 @@ with st.container():
                 It vividly showcases my ability to bridge the gap between raw data and strategic business decisions, making complex data accessible and actionable
                 """
             )
-            st.markdown("[Github Link....](link)")
+            st.markdown("[Github Link....](https://github.com/Narendra-18/Sales_insights_Data_Analystics_project)")
 
 with st.container():
     image_column, text_column = st.columns((1,2))
@@ -109,7 +109,7 @@ with st.container():
                 It is an ongoing initiative, and we remain committed to delivering tangible improvements in additive manufacturing efficiency. Stay tuned for further updates on the project's progress and its ongoing impact in the manufacturing sector.
                 """
             )
-            st.markdown("[Github Link....](link)")
+            st.markdown("[Github Link....](https://github.com/Narendra-18/OEE_of_3DPrinter)")
 
 
 with st.container():
